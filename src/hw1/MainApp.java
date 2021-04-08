@@ -8,4 +8,9 @@ public class MainApp {
     public static void asd() {
         System.out.println("hello world!");
     }
+
+    public static void asdsdas() {
+        System.out.println("hello world!");
+    }
+
 }
